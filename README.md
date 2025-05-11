@@ -1,7 +1,13 @@
+### Myself
+
 - 👋 Hi, I’m @hoangchaunguyen
 - 👀 I’m interested in learing new thing
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on new simple project
+
+### My Object
+- I want to become a Python developer and Data Scientis
+
+### Contact
 - 📫 How to reach me: via my email: mrchaunh@gmail.com
 
 <!---
